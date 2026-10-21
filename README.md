@@ -62,4 +62,4 @@ The n8n implementation demonstrates duplicate prevention for normal repeated sub
 
 ## About
 
-Created by **Grant Yang**. Portfolio demo with fictional data; the CRM in the demo is an n8n Data Table and the alert is mocked. See [NOTICE](NOTICE.md) for attribution and licensing context. This repository is published as a portfolio demonstration; no repository-wide licence is granted.
+Created by **Grant Yang**. Portfolio demo with fictional data; the CRM in the demo is an n8n Data Table and the alert is mocked. See [NOTICE](NOTICE.md) for attribution and licensing context. This repository is published as a portfolio demonstration; no repository-wide licence is granted. **The sole MIT-licensed file is [`workflow/demo-a-sanitized.json`](workflow/demo-a-sanitized.json), under its [file-specific license](workflow/demo-a-sanitized.json.LICENSE.md).** The README, documentation, images, video, and other original materials remain all rights reserved.
